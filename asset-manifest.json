@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/practice-proj2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/practice-proj2/static/js/main.3a4d8896.chunk.js",
+    "main.js.map": "/practice-proj2/static/js/main.3a4d8896.chunk.js.map",
+    "runtime-main.js": "/practice-proj2/static/js/runtime-main.752425a0.js",
+    "runtime-main.js.map": "/practice-proj2/static/js/runtime-main.752425a0.js.map",
+    "static/js/2.f20c383d.chunk.js": "/practice-proj2/static/js/2.f20c383d.chunk.js",
+    "static/js/2.f20c383d.chunk.js.map": "/practice-proj2/static/js/2.f20c383d.chunk.js.map",
+    "index.html": "/practice-proj2/index.html",
+    "precache-manifest.319276bb19a27f559f157aec103f19f0.js": "/practice-proj2/precache-manifest.319276bb19a27f559f157aec103f19f0.js",
+    "service-worker.js": "/practice-proj2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/practice-proj2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f20c383d.chunk.js.LICENSE.txt": "/practice-proj2/static/js/2.f20c383d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/practice-proj2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.752425a0.js",
+    "static/js/2.f20c383d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3a4d8896.chunk.js"
+  ]
+}
